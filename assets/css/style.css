@@ -519,6 +519,11 @@ section {
 
         grid-template-columns: 1fr;
     }
+
+    .stats-wrapper{
+
+        grid-template-columns:1fr 1fr;
+    }
 }
 
 /* ABOUT */
