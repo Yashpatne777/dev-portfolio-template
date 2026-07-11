@@ -260,5 +260,48 @@
     </div>
 
 </section>
+<section class="stats">
+
+    <div class="container">
+
+        <div class="stats-wrapper">
+
+            <div class="stat-card">
+
+                <h3 class="counter" data-target="50">0</h3>
+
+                <p>Projects Completed</p>
+
+            </div>
+
+            <div class="stat-card">
+
+                <h3 class="counter" data-target="20">0</h3>
+
+                <p>Happy Clients</p>
+
+            </div>
+
+            <div class="stat-card">
+
+                <h3 class="counter" data-target="3">0</h3>
+
+                <p>Years Experience</p>
+
+            </div>
+
+            <div class="stat-card">
+
+                <h3>100%</h3>
+
+                <p>Client Satisfaction</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
 <?php include 'includes/footer.php'; ?>
