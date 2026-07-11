@@ -372,6 +372,47 @@
     </div>
 
 </section>
+<section class="cta-section">
+
+    <div class="container">
+
+        <div class="cta-card">
+
+            <span class="section-tag">
+                LET'S WORK TOGETHER
+            </span>
+
+            <h2>
+                Ready To Build Something Amazing?
+            </h2>
+
+            <p>
+                I'm available for freelance projects,
+                business websites, landing pages and
+                custom web solutions.
+            </p>
+
+            <div class="cta-buttons">
+
+                <a href="#contact" class="primary-btn">
+                    Start A Project
+                </a>
+
+                <a href="https://wa.link/fu16ly"
+                   target="_blank"
+                   class="secondary-btn">
+
+                    Hire Me
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
 
 <?php include 'includes/footer.php'; ?>
