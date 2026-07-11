@@ -211,9 +211,8 @@ You are free to use, modify, and distribute this template for personal and comme
 
 ## 👨‍💻 Author
 
-**John Developer**
+**Yash Patne**
 
-Frontend Developer & Web Creator
 
 Built with ❤️ for developers, freelancers, and creators worldwide.
 
