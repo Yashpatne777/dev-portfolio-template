@@ -58,7 +58,7 @@
         <div class="about-wrapper">
 
             <div class="about-image">
-                <img src="assets/images/profile.jpg" alt="">
+                <img src="assets/images/profile.jpg" alt="Profile">
             </div>
 
             <div class="about-content">

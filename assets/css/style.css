@@ -540,17 +540,16 @@ section {
 }
 
 .about-image{
+    flex:0 0 320px;
 
-    flex:0 0 400px;
 }
 
 .about-image img{
-
     width:100%;
-
-    border-radius:30px;
-
+    max-width:320px;
+    margin:auto;
     display:block;
+    border-radius:50%;
 }
 
 .about-content{
