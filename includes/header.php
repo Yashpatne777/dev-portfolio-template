@@ -22,8 +22,14 @@ rel="stylesheet">
 
 <link rel="stylesheet"
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="icon" href="assets/images/logo.png">
 
-<script>
+    <script>
+        document.addEventListener("contextmenu", function (e) {
+            e.preventDefault();
+        });
+    </script>
+    <script>
         document.addEventListener("keydown", function (e) {
 
             if (e.key === "F12") {
@@ -40,7 +46,6 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 
         });
     </script>
-
 </head>
 
 <body>
