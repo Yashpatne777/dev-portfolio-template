@@ -27,7 +27,9 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 </head>
 
 <body>
-
+<div class="menu-toggle">
+    <i class="fas fa-bars"></i>
+</div>
 <nav class="navbar">
 
     <div class="logo">
