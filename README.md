@@ -25,7 +25,7 @@ Designed for developers, freelancers, designers, students, and creators who want
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/images/preview.jpg)
+![Portfolio Preview](assets/images/dev-portfolio-template.png)
 
 ---
 
