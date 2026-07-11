@@ -62,7 +62,7 @@
 
             <div class="about-image">
 
-                <img src="https://picsum.photos/500/600" alt="Profile">
+                <img src="./assets/images/profile.png" alt="Profile">
 
             </div>
 
