@@ -302,6 +302,76 @@
     </div>
 
 </section>
+<section class="testimonials" id="testimonials">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>CLIENT FEEDBACK</span>
+
+            <h2>What Clients Say</h2>
+
+        </div>
+
+        <div class="testimonial-grid">
+
+            <div class="testimonial-card">
+
+                <div class="stars">
+                    ★★★★★
+                </div>
+
+                <p>
+                    Excellent developer with strong attention to detail.
+                    Delivered the project ahead of schedule.
+                </p>
+
+                <h4>Michael Johnson</h4>
+
+                <span>Startup Founder</span>
+
+            </div>
+
+            <div class="testimonial-card">
+
+                <div class="stars">
+                    ★★★★★
+                </div>
+
+                <p>
+                    Amazing communication and beautiful design work.
+                    Highly recommended for modern websites.
+                </p>
+
+                <h4>Sarah Williams</h4>
+
+                <span>Business Owner</span>
+
+            </div>
+
+            <div class="testimonial-card">
+
+                <div class="stars">
+                    ★★★★★
+                </div>
+
+                <p>
+                    Professional, fast and reliable.
+                    The final website exceeded expectations.
+                </p>
+
+                <h4>David Anderson</h4>
+
+                <span>Agency Client</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
 
 <?php include 'includes/footer.php'; ?>
