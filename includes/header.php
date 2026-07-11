@@ -13,7 +13,7 @@ Developer Portfolio
 </title>
 
 <link rel="stylesheet"
-href="./assets/css/style.css">
+href="assets/css/style.css">
 
 <link rel="preconnect"
 href="https://fonts.googleapis.com">

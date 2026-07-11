@@ -62,7 +62,7 @@
 
             <div class="about-image">
 
-                <img src="assets/images/profile.jpg" alt="Profile">
+                <img src="./assets/images/profile.png" alt="Profile">
 
             </div>
 
@@ -92,7 +92,6 @@
                 </p>
 
                 <div class="about-info">
-
                     <div class="info-box">
 
                         <h4>2+</h4>
