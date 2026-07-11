@@ -51,66 +51,45 @@
     <div class="container">
 
         <div class="section-title">
-
-            <span>About Me</span>
-
+            <span>ABOUT ME</span>
             <h2>Who I Am</h2>
-
         </div>
 
         <div class="about-wrapper">
 
             <div class="about-image">
-
-                <img src="./assets/images/profile.png" alt="Profile">
-
+                <img src="assets/images/profile.jpg" alt="">
             </div>
 
             <div class="about-content">
 
-                <h3>
-                    Frontend Developer &
-                    Web Creator
-                </h3>
+                <h3>Frontend Developer & Web Creator</h3>
 
                 <p>
-
-                    I'm a passionate web developer
-                    focused on creating modern,
-                    responsive and visually
-                    appealing websites.
-
+                    I'm a passionate web developer focused on creating modern,
+                    responsive and visually appealing websites.
                 </p>
 
                 <p>
-
-                    I specialize in HTML, CSS,
-                    JavaScript, PHP, WordPress,
-                    Next.js and FiveM web
-                    development.
-
+                    I specialize in HTML, CSS, JavaScript, PHP, WordPress,
+                    Next.js and FiveM web development.
                 </p>
 
                 <div class="about-info">
-                    <div class="info-box">
 
+                    <div class="info-box">
                         <h4>2+</h4>
                         <span>Years Learning</span>
-
                     </div>
 
                     <div class="info-box">
-
                         <h4>10+</h4>
                         <span>Projects Built</span>
-
                     </div>
 
                     <div class="info-box">
-
                         <h4>100%</h4>
                         <span>Dedication</span>
-
                     </div>
 
                 </div>
