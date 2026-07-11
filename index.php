@@ -154,4 +154,111 @@
 
 </section>
 
+<section class="projects" id="projects">
+
+    <div class="container">
+
+        <div class="section-title">
+            <span>MY WORK</span>
+            <h2>Featured Projects</h2>
+        </div>
+
+        <div class="projects-grid">
+
+            <div class="project-card">
+
+                <img src="assets/images/project1.jpg" alt="">
+
+                <div class="project-content">
+
+                    <span>Portfolio Website</span>
+
+                    <h3>Developer Portfolio</h3>
+
+                    <p>
+                        Modern responsive portfolio built for freelancers.
+                    </p>
+
+                    <div class="project-buttons">
+
+                        <a href="#" class="primary-btn">
+                            Live Demo
+                        </a>
+
+                        <a href="#" class="secondary-btn">
+                            Source
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="project-card">
+
+                <img src="assets/images/project2.jpg" alt="">
+
+                <div class="project-content">
+
+                    <span>Business</span>
+
+                    <h3>Business Landing Page</h3>
+
+                    <p>
+                        Corporate website designed for local businesses.
+                    </p>
+
+                    <div class="project-buttons">
+
+                        <a href="#" class="primary-btn">
+                            Live Demo
+                        </a>
+
+                        <a href="#" class="secondary-btn">
+                            Source
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="project-card">
+
+                <img src="assets/images/project3.jpg" alt="">
+
+                <div class="project-content">
+
+                    <span>Restaurant</span>
+
+                    <h3>Restaurant Website</h3>
+
+                    <p>
+                        Food menu showcase with online reservation support.
+                    </p>
+
+                    <div class="project-buttons">
+
+                        <a href="#" class="primary-btn">
+                            Live Demo
+                        </a>
+
+                        <a href="#" class="secondary-btn">
+                            Source
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
 <?php include 'includes/footer.php'; ?>
