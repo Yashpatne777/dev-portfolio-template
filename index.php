@@ -27,13 +27,11 @@
 
         <div class="hero-buttons">
 
-            <a href="#projects"
-                class="primary-btn">
+            <a href="#projects" class="primary-btn">
                 View Projects
             </a>
 
-            <a href="#contact"
-                class="secondary-btn">
+            <a href="#contact" class="secondary-btn">
                 Hire Me
             </a>
 
@@ -43,9 +41,7 @@
 
     <div class="hero-image">
 
-        <img
-            src="./assets/images/hero-image.jpg"
-            alt="Developer">
+        <img src="./assets/images/hero-image.jpg" alt="Developer">
 
     </div>
 
@@ -66,8 +62,7 @@
 
             <div class="about-image">
 
-                <img src="assets/images/profile.jpg"
-                alt="Profile">
+                <img src="assets/images/profile.jpg" alt="Profile">
 
             </div>
 
