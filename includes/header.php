@@ -12,8 +12,7 @@ content="width=device-width, initial-scale=1.0">
 Developer Portfolio
 </title>
 
-<link rel="stylesheet"
-href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css?v=2">
 
 <link rel="preconnect"
 href="https://fonts.googleapis.com">
