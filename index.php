@@ -372,7 +372,7 @@
     </div>
 
 </section>
-<section class="cta-section">
+<section class="cta-section" id="contact">
 
     <div class="container">
 
