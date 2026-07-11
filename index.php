@@ -167,7 +167,7 @@
 
             <div class="project-card">
 
-                <img src="assets/images/project1.jpg" alt="">
+                <img src="assets/images/project-1.png" alt="">
 
                 <div class="project-content">
 
@@ -197,7 +197,7 @@
 
             <div class="project-card">
 
-                <img src="assets/images/project2.jpg" alt="">
+                <img src="assets/images/project-2.png" alt="">
 
                 <div class="project-content">
 
@@ -227,7 +227,7 @@
 
             <div class="project-card">
 
-                <img src="assets/images/project3.jpg" alt="">
+                <img src="assets/images/project-3.png" alt="">
 
                 <div class="project-content">
 
