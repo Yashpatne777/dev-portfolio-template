@@ -101,5 +101,57 @@
     </div>
 
 </section>
+<section class="services" id="services">
+
+    <div class="container">
+
+        <div class="section-title">
+            <span>WHAT I DO</span>
+            <h2>Services</h2>
+        </div>
+
+        <div class="services-grid">
+
+            <div class="service-card">
+                <i class="fas fa-code"></i>
+                <h3>Web Development</h3>
+                <p>Modern and responsive websites built with latest technologies.</p>
+            </div>
+
+            <div class="service-card">
+                <i class="fas fa-palette"></i>
+                <h3>UI/UX Design</h3>
+                <p>Clean and engaging user interfaces focused on user experience.</p>
+            </div>
+
+            <div class="service-card">
+                <i class="fas fa-mobile-alt"></i>
+                <h3>Responsive Design</h3>
+                <p>Websites optimized for desktop, tablet and mobile devices.</p>
+            </div>
+
+            <div class="service-card">
+                <i class="fas fa-rocket"></i>
+                <h3>Performance</h3>
+                <p>Fast-loading websites with optimized performance.</p>
+            </div>
+
+            <div class="service-card">
+                <i class="fas fa-database"></i>
+                <h3>Backend Solutions</h3>
+                <p>Database integration and dynamic functionality.</p>
+            </div>
+
+            <div class="service-card">
+                <i class="fas fa-cloud-upload-alt"></i>
+                <h3>Deployment</h3>
+                <p>Hosting, deployment and website maintenance support.</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
 <?php include 'includes/footer.php'; ?>
