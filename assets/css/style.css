@@ -507,16 +507,6 @@ section {
 
         flex-direction: column;
     }
-
-    .about-wrapper {
-
-        grid-template-columns: 1fr;
-    }
-
-    .about-info {
-
-        flex-direction: column;
-    }
 }
 
 /* ABOUT */
