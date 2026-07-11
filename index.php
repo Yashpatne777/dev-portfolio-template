@@ -44,7 +44,7 @@
     <div class="hero-image">
 
         <img
-            src="assets/images/hero-image.png"
+            src="assets/images/hero-image.jpg"
             alt="Developer">
 
     </div>
